@@ -1,5 +1,3 @@
-# GitHub Action para generar un gráfico de contribuciones con una serpiente 🐍
-
 name: Generate Snake
 
 # Corre automáticamente cada 6 horas
@@ -24,9 +22,9 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: rafaelchuco
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake.gif
+        run: |
+          echo "dist/github-contribution-grid-snake.svg" >> $GITHUB_ENV
+          echo "dist/github-contribution-grid-snake.gif" >> $GITHUB_ENV
 
       # Publica los archivos en la rama 'output'
       - name: Deploy to output branch
