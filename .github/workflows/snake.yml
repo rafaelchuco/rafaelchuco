@@ -24,11 +24,14 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: rafaelchuco
-        run: |
-          echo "dist/github-contribution-grid-snake.svg" >> $GITHUB_ENV
-          echo "dist/github-contribution-grid-snake.gif" >> $GITHUB_ENV
 
-      # Paso 4: Publicar los archivos generados en la rama 'output'
+      # Paso 4: Crear un archivo de salida manualmente para la ruta de los archivos generados
+      - name: Set output paths
+        run: |
+          echo "OUTPUT_SVG=dist/github-contribution-grid-snake.svg" >> $GITHUB_ENV
+          echo "OUTPUT_GIF=dist/github-contribution-grid-snake.gif" >> $GITHUB_ENV
+
+      # Paso 5: Publicar los archivos generados en la rama 'output'
       - name: Deploy to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
@@ -36,3 +39,4 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+2
