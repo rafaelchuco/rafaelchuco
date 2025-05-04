@@ -3,21 +3,23 @@ name: Generate Snake
 # Corre automáticamente cada 6 horas
 on:
   schedule:
-    - cron: "0 */6 * * *"
-
-  # Permite ejecutarlo manualmente desde la pestaña Actions
-  workflow_dispatch:
+    - cron: "0 */6 * * *"  # Ejecuta cada 6 horas
+  workflow_dispatch:  # Permite ejecutarlo manualmente
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      # Clona el repositorio
+      # Paso 1: Clona el repositorio
       - name: Checkout
         uses: actions/checkout@v3
 
-      # Genera la animación de la serpiente
+      # Paso 2: Paso de depuración para confirmar si el flujo de trabajo fue activado
+      - name: Debugging step
+        run: echo "Workflow triggered manually."
+
+      # Paso 3: Generar la animación de la serpiente
       - name: Generate Snake
         uses: Platane/snk@v3
         with:
@@ -26,7 +28,7 @@ jobs:
           echo "dist/github-contribution-grid-snake.svg" >> $GITHUB_ENV
           echo "dist/github-contribution-grid-snake.gif" >> $GITHUB_ENV
 
-      # Publica los archivos en la rama 'output'
+      # Paso 4: Publicar los archivos generados en la rama 'output'
       - name: Deploy to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
