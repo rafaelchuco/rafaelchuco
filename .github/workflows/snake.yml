@@ -25,13 +25,17 @@ jobs:
         with:
           github_user_name: rafaelchuco
 
-      # Paso 4: Crear un archivo de salida manualmente para la ruta de los archivos generados
+      # Paso 4: Asegurarse de que el directorio 'dist' exista
+      - name: Create dist directory
+        run: mkdir -p dist
+
+      # Paso 5: Crear un archivo de salida manualmente para la ruta de los archivos generados
       - name: Set output paths
         run: |
           echo "OUTPUT_SVG=dist/github-contribution-grid-snake.svg" >> $GITHUB_ENV
           echo "OUTPUT_GIF=dist/github-contribution-grid-snake.gif" >> $GITHUB_ENV
 
-      # Paso 5: Publicar los archivos generados en la rama 'output'
+      # Paso 6: Publicar los archivos generados en la rama 'output'
       - name: Deploy to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
