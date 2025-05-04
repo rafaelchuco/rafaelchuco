@@ -24,11 +24,14 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: rafaelchuco
+        # Verifica que la acción esté generando archivos en dist
+        # Si la acción tiene un parámetro `outputs`, ajusta esto en consecuencia.
+        outputs: "dist/github-contribution-grid-snake.svg, dist/github-contribution-grid-snake.gif"
 
-      # Paso 4: Listar los archivos generados por la acción Platane/snk
-      - name: List files after generating snake
+      # Paso 4: Verificar que la acción haya generado los archivos
+      - name: List all files in the repository after generating snake
         run: |
-          echo "Listing files in the repository after generating snake:"
+          echo "Listing all files in the repository:"
           ls -la
 
       # Paso 5: Asegurarse de que el directorio 'dist' exista
