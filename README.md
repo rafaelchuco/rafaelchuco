@@ -92,6 +92,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelchuco&layout=compact&theme=github_dark" />
 </p>
 
----
-
-![snake gif](https://github.com/rafaelchuco/rafaelchuco/blob/output/github-contribution-grid-snake.svg)
