@@ -1,94 +1,118 @@
+<div align="center">
 
-<h1 align="center">¡Hola, soy Rafael Chuco! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<!-- Header Animado -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,30&height=200&section=header&text=Rafael%20Chuco&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%7C%20Frontend%20Developer&descAlignY=55&descSize=18"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&size=24&center=true&vCenter=true&width=600&lines=Software+Developer;Full+Stack+Engineer;React+%7C+Node.js+%7C+MongoDB;Estudiante+de+TECSUP+💻;Apasionado+por+la+tecnología+y+el+desarrollo">
-</p>
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&height=100&lines=¡Hola!+👋;Soy+Rafael+Chuco;Software+Developer+💻;Frontend+Developer+🚀;Welcome+to+my+Profile!+✨"/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rafaelchuco&label=Profile%20views&color=0047AB&style=plastic" alt="rafaelchuco" />
-</p>
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<img align="right" src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="250px" />
+## 🎯 Sobre mis Cuentas
 
----
+<!-- Gatito flotante a la derecha -->
+<img align="right" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200">
 
-### 🚀 Sobre mí
+**🎓 Cuenta Académica**
+<br>
+<img src="https://img.shields.io/badge/🎓_Estudiante-Proyectos_de_Aprendizaje-6366F1?style=for-the-badge&labelColor=000000&logoColor=white"/>
+<br>
+<sub>💡 Esta cuenta para proyectos de estudio y instituto</sub>
 
-* 🎓 Estudiante de **Diseño y Desarrollo de Software en TECSUP**
-* 💻 Apasionado por el desarrollo **Full Stack**
-* 📌 Actualmente aprendiendo **React**, **MongoDB**, **Node.js** y **PHP**
-* 🌐 Me encanta construir proyectos reales, resolver problemas y colaborar en software abierto
-* 🌱 En constante aprendizaje y evolución tecnológica
+<br><br>
 
----
+**💼 Cuenta Profesional**
+<br>
+<a href="https://github.com/Rafael-Chuco" target="_blank">
+<img src="https://img.shields.io/badge/💼_Profesional-Rafael--Chuco-10B981?style=for-the-badge&labelColor=000000&logoColor=white"/>
+</a>
+<br>
+<sub>🚀 Para proyectos comerciales y trabajo</sub>
 
-### 📫 Contacto
+<br><br>
 
-<p align="center">
-  <a href="mailto:rafael.chuco1908@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>&nbsp;
-  <a href="https://www.linkedin.com/in/rafael-chuco-yantas" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>&nbsp;
-  <a href="https://www.instagram.com/rafaelchuco" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-</p>
+<a href="https://github.com/Rafael-Chuco" target="_blank">
+<img src="https://img.shields.io/badge/✨_Visitar_Perfil_Profesional-Click_Aquí-F59E0B?style=for-the-badge&labelColor=000000&logoColor=white"/>
+</a>
 
----
+<br clear="right">
 
-## 🧠 Habilidades Técnicas
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### Lenguajes de Programación
+## 🌟 Estado Actual
 
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge\&logo=java\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
+<img src="https://img.shields.io/badge/💻_Coding-Active-00FF41?style=for-the-badge&labelColor=000000&logoColor=white"/>
+<img src="https://img.shields.io/badge/📚_Learning-Always-00D4FF?style=for-the-badge&labelColor=000000&logoColor=white"/>
+<img src="https://img.shields.io/badge/🤝_Colaboración-Available-FF9500?style=for-the-badge&labelColor=000000&logoColor=white"/>
 
-### Desarrollo Web
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
+## � Sobre mí
 
-### Bases de Datos
+🎓 **Estudiante de Diseño y Desarrollo de Software en TECSUP**
+<br>
+💻 **Frontend Developer** apasionado por crear interfaces atractivas y funcionales
+<br>
+📌 **Enfocado en:** React, JavaScript, CSS3, HTML5 y desarrollo web moderno
+<br>
+🌐 **Me encanta:** Construir proyectos reales, resolver problemas y colaborar en software abierto
+<br>
+🌱 **Siempre:** En constante aprendizaje y evolución tecnológica
+<br>
+⚡ **Meta:** Crear experiencias de usuario excepcionales
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge\&logo=oracle\&logoColor=white)
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### IDEs y Herramientas
+## �🛠️ Tecnologías Principales
 
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge\&logo=pycharm\&logoColor=white)
-![PhpStorm](https://img.shields.io/badge/PhpStorm-68217A?style=for-the-badge\&logo=phpstorm\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
-### Virtualización y Sistemas Operativos
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-![VMware](https://img.shields.io/badge/VMware-Workstation%20Pro-0077B5?style=for-the-badge\&logo=vmware\&logoColor=white)
-![Windows 10](https://img.shields.io/badge/Windows%2010-0078D6?style=for-the-badge\&logo=windows\&logoColor=white)
-![Windows 11](https://img.shields.io/badge/Windows%2011-0078D4?style=for-the-badge\&logo=windows11\&logoColor=white)
-![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D7?style=for-the-badge\&logo=windows\&logoColor=white)
-![CentOS](https://img.shields.io/badge/CentOS-262577?style=for-the-badge\&logo=centos\&logoColor=white)
+## 📊 GitHub
 
----
+<img src="https://img.shields.io/github/followers/rafaelchuco?style=for-the-badge&color=blue&labelColor=000000"/>
+<img src="https://img.shields.io/github/stars/rafaelchuco?style=for-the-badge&color=yellow&labelColor=000000"/>
+<img src="https://komarev.com/ghpvc/?username=rafaelchuco&label=Profile%20views&color=0047AB&style=for-the-badge"/>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📈 Estadísticas de GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rafaelchuco&show_icons=true&theme=github_dark" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=rafaelchuco&show_icons=true&theme=github_dark" />
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafaelchuco&theme=dark" />
-</p>
+<br><br>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelchuco&layout=compact&theme=github_dark" />
-</p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rafaelchuco&theme=dark" />
 
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelchuco&layout=compact&theme=github_dark" />
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 📫 Contacto
+
+<a href="mailto:rafael.chuco1908@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+<a href="https://www.linkedin.com/in/rafael-chuco-yantas" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="https://www.instagram.com/rafaelchuco" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+
+</div>
