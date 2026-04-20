@@ -9,35 +9,6 @@
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🎯 Sobre mis Cuentas
-
-<!-- Gatito flotante a la derecha -->
-<img align="right" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200">
-
-**🎓 Cuenta Académica**
-<br>
-<img src="https://img.shields.io/badge/🎓_Estudiante-Proyectos_de_Aprendizaje-6366F1?style=for-the-badge&labelColor=000000&logoColor=white"/>
-<br>
-<sub>💡 Esta cuenta para proyectos de estudio y instituto</sub>
-
-<br><br>
-
-**💼 Cuenta Profesional**
-<br>
-<a href="https://github.com/Rafael-Chuco" target="_blank">
-<img src="https://img.shields.io/badge/💼_Profesional-Rafael--Chuco-10B981?style=for-the-badge&labelColor=000000&logoColor=white"/>
-</a>
-<br>
-<sub>🚀 Para proyectos comerciales y trabajo</sub>
-
-<br><br>
-
-<a href="https://github.com/Rafael-Chuco" target="_blank">
-<img src="https://img.shields.io/badge/✨_Visitar_Perfil_Profesional-Click_Aquí-F59E0B?style=for-the-badge&labelColor=000000&logoColor=white"/>
-</a>
-
-<br clear="right">
-
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
