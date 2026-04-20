@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0A2540,35:0F4C81,70:14B8A6,100:22D3EE&text=Rafael%20Chuco&fontColor=ffffff&fontSize=48&fontAlignY=36&animation=fadeIn&desc=Software%20Developer%20%7C%20Frontend%20Specialist&descAlignY=56&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:05070D,35:0B1020,70:111827,100:1F2937&text=Rafael%20Chuco%20%7C%20Frontend%20Engineer&fontColor=E5E7EB&fontSize=42&fontAlignY=35&animation=fadeIn&desc=Software%20Developer%20%7C%20Building%20Scalable%20Web%20Experiences&descAlignY=56&descSize=17" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=26&duration=2800&pause=800&color=0EA5E9&center=true&vCenter=true&width=760&height=70&lines=Desarrollando+interfaces+modernas+y+funcionales;Frontend+Developer+con+enfoque+en+experiencia+de+usuario;Construyendo+proyectos+reales+con+impacto" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=24&duration=2800&pause=800&color=60A5FA&center=true&vCenter=true&width=820&height=70&lines=Dise%C3%B1o+y+desarrollo+interfaces+de+alto+impacto;Frontend+Developer+con+enfoque+en+UI%2FUX+y+rendimiento;React%2C+JavaScript+y+arquitectura+web+moderna" />
 
 <p>
-	<a href="https://github.com/rafaelchuco"><img src="https://img.shields.io/github/followers/rafaelchuco?style=for-the-badge&label=Followers&color=0F4C81&labelColor=111827" /></a>
-	<a href="https://github.com/rafaelchuco?tab=repositories"><img src="https://img.shields.io/badge/Repositorios-Activos-14B8A6?style=for-the-badge&labelColor=111827" /></a>
-	<img src="https://komarev.com/ghpvc/?username=rafaelchuco&style=for-the-badge&color=0EA5E9&label=Visitas" />
+	<a href="https://github.com/rafaelchuco"><img src="https://img.shields.io/github/followers/rafaelchuco?style=for-the-badge&label=Followers&color=1D4ED8&labelColor=0B1220" /></a>
+	<a href="https://github.com/rafaelchuco?tab=repositories"><img src="https://img.shields.io/badge/Repositorios-Activos-0EA5E9?style=for-the-badge&labelColor=0B1220" /></a>
+	<img src="https://komarev.com/ghpvc/?username=rafaelchuco&style=for-the-badge&color=3B82F6&label=Visitas" />
 </p>
 
 </div>
@@ -49,12 +49,18 @@ Soy estudiante de Diseno y Desarrollo de Software en TECSUP y Frontend Developer
 ## Estadisticas
 
 <div align="center">
-	<img height="165" src="https://github-readme-stats.vercel.app/api?username=rafaelchuco&show_icons=true&rank_icon=github&hide_border=true&title_color=0F4C81&icon_color=14B8A6&text_color=334155&bg_color=ffffff" />
-	<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelchuco&layout=compact&hide_border=true&title_color=0F4C81&text_color=334155&bg_color=ffffff" />
+	<img height="165" src="https://github-readme-stats.vercel.app/api?username=rafaelchuco&show_icons=true&rank_icon=github&hide_border=true&title_color=60A5FA&icon_color=22D3EE&text_color=C9D1D9&bg_color=0D1117" />
+	<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelchuco&layout=compact&hide_border=true&title_color=60A5FA&text_color=C9D1D9&bg_color=0D1117" />
 </div>
 
 <div align="center">
-	<img src="https://streak-stats.demolab.com?user=rafaelchuco&hide_border=true&ring=0F4C81&fire=14B8A6&currStreakLabel=0F4C81&sideNums=334155&sideLabels=334155&currStreakNum=334155&dates=64748B&background=FFFFFF" />
+	<img src="https://streak-stats.demolab.com?user=rafaelchuco&hide_border=true&ring=60A5FA&fire=22D3EE&currStreakLabel=60A5FA&sideNums=C9D1D9&sideLabels=C9D1D9&currStreakNum=E5E7EB&dates=94A3B8&background=0D1117" />
+</div>
+
+## Snake de Commits
+
+<div align="center">
+	<img src="https://raw.githubusercontent.com/rafaelchuco/rafaelchuco/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ## Contacto
